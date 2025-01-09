@@ -10,4 +10,4 @@ Below is an example of the generated tree:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amberyuantan/Python-draws-random-fractal-trees.git
+   git clone [https://github.com/amberyuantan/Python-draws-random-fractal-trees.git](https://github.com/amberyuantan/Python-draws-random-fractal-trees/blob/main/random%20fractal%20trees.py)
